@@ -1,0 +1,22 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+}
+.move-item
+{
+    margin-top: -10px;
+}
+.move-hi
+{
+    margin-top: 10px;
+}
+.guru
+{
+    margin-top: 0px;
+}
